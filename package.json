@@ -1,0 +1,24 @@
+{
+  "name": "gt-greatbay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "auctionread.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjmoon15/gt-greatBay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjmoon15/gt-greatBay/issues"
+  },
+  "homepage": "https://github.com/mjmoon15/gt-greatBay#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.3.0",
+    "mysql": "^2.18.1"
+  }
+}
